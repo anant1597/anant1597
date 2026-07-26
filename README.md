@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Anant 👋
 
-<!--
-**anant1597/anant1597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cofounder of **[Elixir](https://www.elixir.cards/)** — India's first credit card and marketplace for fitness & health consumers.
 
-Here are some ideas to get you started:
+I'm the non-technical cofounder, but that hasn't stopped me from shipping. Working with AI agents, I built Elixir's entire finance back-office:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Reconciliation engines** — every card transaction, marketplace order, rewards coin, and wallet load reconciled programmatically each month
+- **Revenue analytics** — GMV/NMV and cash-reconciliation P&L engines with a validation suite where the engines cross-audit each other
+- **Invoice automation** — GST-compliant invoice generation and missing-invoice audits
+
+~8,600 lines of Python, operated in natural language via Claude agent skills, replacing what would otherwise be a multi-person finance ops team. The code lives in a private repo ([elixir-ops-automation](https://github.com/anant1597/elixir-ops-automation)) — happy to share access.
+
+📫 anant@joinelixir.club · [LinkedIn](https://www.linkedin.com/in/anantjain15/)
