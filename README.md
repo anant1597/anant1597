@@ -1,6 +1,6 @@
 ## Hi, I'm Anant 👋
 
-Cofounder of **[Elixir](https://www.elixir.cards/)** — India's first credit card and marketplace for fitness & health consumers.
+Cofounder of **[Elixir](https://www.elixir.cards/)**
 
 I'm the non-technical cofounder, but that hasn't stopped me from shipping. Working with AI agents, I built Elixir's entire finance back-office:
 
